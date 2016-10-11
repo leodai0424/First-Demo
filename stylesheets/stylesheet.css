@@ -6,7 +6,7 @@ body {background-color: #000000;
  }
 
 div {position:absolute;
-left:1250px;
+left:450px;
 top: 30px;}
 
 @font-face{font-family: 'Noto Sans', sans-serif;}
@@ -14,4 +14,4 @@ top: 30px;}
 .title{font-size: 150%;
 color:blue;}
 
-img{width:1200px;}
+img{width:400px;}
