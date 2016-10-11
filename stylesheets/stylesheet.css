@@ -5,9 +5,7 @@ body {background-color: #000000;
  font-family: 'Noto Sans';
  }
 
-span {position:relative;
-left:1250px;
-top: 30px;}
+ p{float:right;}
 
 @font-face{font-family: 'Noto Sans', sans-serif;}
 
